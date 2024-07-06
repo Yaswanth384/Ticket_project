@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Creating ticket page
 
-This project was bootstrapped with [Create React App].
+This project is developed using MERN STACK.
 
 ## Available Scripts
 
