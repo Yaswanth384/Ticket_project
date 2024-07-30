@@ -2,8 +2,7 @@
 
 This project is developed using MERN STACK.
 
-[Completion Certificate]
-[technolabs_intern.pdf](https://github.com/user-attachments/files/16429157/technolabs_intern.pdf)
+[Completion Certificate](https://drive.google.com/file/d/11m0PZvUsEvaxg2TdZe2E-vTaVnqWv3dm/view)
 
 ![intern](https://github.com/user-attachments/assets/d06013ac-3fb4-4d64-8a44-c438c47f4e4d)
 
