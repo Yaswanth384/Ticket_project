@@ -5,6 +5,9 @@ This project is developed using MERN STACK.
 [Completion Certificate]
 [technolabs_intern.pdf](https://github.com/user-attachments/files/16429157/technolabs_intern.pdf)
 
+![intern](https://github.com/user-attachments/assets/d06013ac-3fb4-4d64-8a44-c438c47f4e4d)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
